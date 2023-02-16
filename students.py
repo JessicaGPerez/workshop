@@ -14,6 +14,6 @@ class Student:
     def __str__(self):
         return f"Name: {self.first_name} {self.last_name} \nMajor: {self.major.name}" \
                f"\n ================="
-
+#lobelydhfhaoenvoiv ijfonvfoahvipf
 
 
